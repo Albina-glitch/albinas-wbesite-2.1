@@ -1,0 +1,64 @@
+
+< title> Save the Jungle>/title>
+}
+
+>/head>
+<div class='main''>
+<div class='logo'>
+<imf scr=''logo.png;; >
+>/div>
+<ul>
+<li class= active> >< a href=''#''>about>/a></lil>
+<li><a href=''#''>gallery >/a></lil
+<li><a href=''#''>contact>/a></lil>
+</ul>
+<div>
+<div class=title>
+>h1>Save the Jungle>/h1>
+
+}
+
+
+>html>
+<head>
+<title> gallery>/title>
+<div class gallery >< a href=<>img src= Albina;s first website/ ;Jungle animals,jpg'<>/a>
+div class gallery >< a href=<>img src= Albina;s first website/ ;Jungle animals,jpg'<>/a>
+< a href= Jungle animals/Frog.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/parrot.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/monkey.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/sloth.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/leopard.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/elephant.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+< a href= Jungle animals/animal.jpg<>img src=Albina;s first website/ ;Jungle animals,jpg'<>/a
+
+.gallery {
+margin: 10px 50px
+}
+.gallery img {
+transition: 1s;
+ padding: 15px;
+ width;200pc;
+
+}
+.gallery img: hover; {
+ filter: greyscale ( 100%);
+ transform: scale  (1.1);
+
+}
+
+<section id>'about>
+<div class= about-text>
+<p> Many animals are becoming, extinct from Japanese Wolfs to  Laughing Owls  and Golden Toads.
+Our current problematic climate conditions has left many animals without their habitats from Ice melting, faster today, putting polar bears
+ at rise of extinction  in the future and rainforests being cut down for paper.
+ We can all work together to slow global warming and prevent the increase for a better future for us and our animal friends.</P>
+
+ }
+
+ <section id> contact>
+ <div class= about-text>
+ <p>Email me at A.Gashi5274@student.leedsbeckett.ac.uk
+
+
+ }
